@@ -22,15 +22,17 @@ If I make a commit on my local computer but do not see the changes on GitHub.com
 ## Markdown
 
 ### Q1 - Bulleted List
-+ First item
-+ Second item
-+ Third item
-+ Fourth item
++ Apples
++ Kiwi
++ Bananas
++ Oranges
+
++ A numbered list uses numbers (1,2,3) instead of bullets.
 
 
 ### Q2 - Markdown Paragraph
 
-Insert your answer and explanation here
+My *name* is **Sarika** ***Kandukuri*** learning `python code` at [oduunive] (https) 
 
 ### Q3 - Animal Image
 
