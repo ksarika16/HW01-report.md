@@ -1,6 +1,7 @@
 # Homework 1: Tool Setup
 
-Sarika Kandukuri 
+Sarika Kandukuri  
+
 CS 625, Fall 2025  
 Due: September 7, 2025
 
