@@ -52,7 +52,7 @@ Here is my bar chart for the West region:
 
 ### Q1 - URL of Google Colab Notebook
 
-Insert your answer and explanation here
+https://colab.research.google.com/drive/1VJrB6pu-IRlCx6iF6_DmNqb4ErBYUr2W
 
 ## Python/Seaborn
 
