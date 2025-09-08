@@ -88,10 +88,11 @@ The scatterplot now shows small open circle points
 
  We need to change the code as shown so that Horsepower is on Y-axis and Miles-per-Gallon is on X-axis.
   
-     
-
-  
+    
 
 ### Q4 - Remove fieldN(Origin)
 
-Insert your answer and explanation here
+<img src="vega1.png" height="100" alt="This is vega-lite image.">    
+
+Now the chart no longer groups data by Origin, it only shows one bar instead of multipled grouped bars.  
+
