@@ -22,7 +22,10 @@ If I make a commit on my local computer but do not see the changes on GitHub.com
 ## Markdown
 
 ### Q1 - Bulleted List
-
++ First item
++ Second item
++ Third item
++ Fourth item
 
 
 ### Q2 - Markdown Paragraph
