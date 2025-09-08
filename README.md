@@ -81,13 +81,12 @@ The scatterplot now shows small open circle points
 
 ### Q3 - Swap X and Y Axes on Scatterplot
 
-    We need to change the code as  
-    
-    `vl.y().fieldQ("Horsepower"),  
-     vl.x().fieldQ("Miles_per_Gallon")`  
+ `vl.y().fieldQ("Horsepower"),  
+  vl.x().fieldQ("Miles_per_Gallon")`   
+  
      
 
-    Now Horsepower is on Y-axis and Miles-per-Gallon is on X-axis.  
+  
 
 ### Q4 - Remove fieldN(Origin)
 
