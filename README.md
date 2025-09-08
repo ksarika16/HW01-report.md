@@ -58,13 +58,12 @@ https://colab.research.google.com/drive/1VJrB6pu-IRlCx6iF6_DmNqb4ErBYUr2W
 
 ### Q1 - First Penguin Image
 
-penguin image.png
 
 <img src="penguin image.png" height="100" alt="This is a image1.">
 
 ### Q2 - Second Penguin Image
 
-Insert your answer and explanation here
+<img src="penguin2 image.png" height="100" alt="This is a image2.">
 
 ### Q3 - Outer Parenthesis
 
