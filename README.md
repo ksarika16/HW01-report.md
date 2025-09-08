@@ -44,7 +44,9 @@ My *name* is **Sarika** ***Kandukuri*** learning `python code` at [oduuniv](http
 
 ### Q1 - Region Other Than the South
 
-Insert your answer and explanation here
+Here is my bar chart for the West region:
+
+![Sales by Category in West Region](west_sales.png)
 
 ## Google Colab
 
