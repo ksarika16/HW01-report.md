@@ -58,7 +58,8 @@ https://colab.research.google.com/drive/1VJrB6pu-IRlCx6iF6_DmNqb4ErBYUr2W
 
 ### Q1 - First Penguin Image
 
-Insert your answer and explanation here
+penguin image.png
+
 
 ### Q2 - Second Penguin Image
 
