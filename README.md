@@ -36,7 +36,7 @@ My *name* is **Sarika** ***Kandukuri*** learning `python code` at [oduuniv](http
 
 ### Q3 - Animal Image
 
-Insert your answer and explanation here
+This is the image of a dinosaur (dinosaur image.jpeg)
 
 ## Tableau
 
