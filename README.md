@@ -46,7 +46,7 @@ My *name* is **Sarika** ***Kandukuri*** learning `python code` at [oduuniv](http
 
 Here is my bar chart for the West region:
 
-![Sales by Category in West Region](west_sales.png.twb)
+![Sales by Category in West Region](west_sales.png.twbx)
 
 ## Google Colab
 
