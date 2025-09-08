@@ -37,7 +37,8 @@ My *name* is **Sarika** ***Kandukuri*** learning `python code` at [oduuniv](http
 
 ### Q3 - Animal Image
 
-![This is a picture of my dinosaur.](dinosaur image.jpeg)
+![This is a picture of my dinosaur.](dinosaur image.jpeg)  
+<img src="dinosaur image.jpeg" height="100" alt="This is a picture of my dinosaur.">
 
 ## Tableau
 
