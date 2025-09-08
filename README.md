@@ -1,6 +1,6 @@
 # Homework 1: Tool Setup
 
-Insert Your Name Here  
+Sarika Kandukuri 
 CS 625, Fall 2025  
 Due: September 7, 2025
 
@@ -8,21 +8,22 @@ Due: September 7, 2025
 
 ### Q1 - URL of GitHub Repo
 
-Insert your answer and explanation here
+https://github.com/ksarika16/HW1-report.md
 
 ### Q2 - Pull Command
 
-Insert your answer and explanation here
+The git pull command brings changes from the remote GitHub repository to my local computer. It updates my local repo with edits that were made online or on another machine.
+
 
 ### Q3 - Local Commits
 
-Insert your answer and explanation here
+If I make a commit on my local computer but do not see the changes on GitHub.com, it means I forgot to use the git push command. Without pushing, the changes remain only on my computer.
 
 ## Markdown
 
 ### Q1 - Bulleted List
 
-Insert your answer and explanation here
+
 
 ### Q2 - Markdown Paragraph
 
