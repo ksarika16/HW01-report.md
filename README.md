@@ -32,7 +32,7 @@ If I make a commit on my local computer but do not see the changes on GitHub.com
 
 ### Q2 - Markdown Paragraph
 
-My *name* is **Sarika** ***Kandukuri*** learning `python code` at [oduunive] (https) 
+My *name* is **Sarika** ***Kandukuri*** learning `python code` at [oduuniv](https://oduuniv.com)
 
 ### Q3 - Animal Image
 
