@@ -67,7 +67,7 @@ https://colab.research.google.com/drive/1VJrB6pu-IRlCx6iF6_DmNqb4ErBYUr2W
 
 ### Q3 - Outer Parenthesis
 
-Insert your answer and explanation here
+ it showed syntax error and it is because of incomplete input  
 
 ## Observable and Vega-Lite
 
