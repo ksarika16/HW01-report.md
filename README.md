@@ -73,15 +73,20 @@ https://colab.research.google.com/drive/1VJrB6pu-IRlCx6iF6_DmNqb4ErBYUr2W
 
 ### Q1 - markCircle to markSquare
 
-Insert your answer and explanation here
+After replacing, the scatterplot shows squares instead of circles.  
 
 ### Q2 - markCircle to markPoint
 
-Insert your answer and explanation here
+The scatterplot now shows small open circle points
 
 ### Q3 - Swap X and Y Axes on Scatterplot
 
-Insert your answer and explanation here
+    We need to change the code as  
+    `vl.y().fieldQ("Horsepower"),  
+     vl.x().fieldQ("Miles_per_Gallon")`
+
+     
+    Now Horsepower is on Y-axis and Miles-per-Gallon is on X-axis.  
 
 ### Q4 - Remove fieldN(Origin)
 
